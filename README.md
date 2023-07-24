@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/vgbhuop" target="blank"><img src="https://img.shields.io/twitter/follow/vgbhuop?logo=twitter&style=for-the-badge" alt="vgbhuop" /></a> </p>
 
-- 🔭 I’m currently working on **Neural Networks and AI**
+- 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Physics**
 
