@@ -21,7 +21,7 @@
 <a href="https://www.leetcode.com/sidhant947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sidhant947" height="30" width="40" /></a>
 </p>
 
-##<h3 align="left">My Websites</h3>
+<h3 align="left">My Websites</h3>
 
 
 <a href="https://sidhant947.netlify.app"/>Portfolio</a>
